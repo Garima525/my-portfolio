@@ -88,10 +88,10 @@
     --input: 240 3.7% 15.9%;
     --ring: 240 4.9% 83.9%;
   }
-  .herosection{
-    background-image: url('/ecom/hero-bg.png');
-    background-repeat: repeat;
-    background-size: contain;
+  .hero-section{
+    background-image: url('/hero-banner.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
     place-items: self-end;
   }
 }

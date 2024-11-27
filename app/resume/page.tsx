@@ -10,7 +10,7 @@ const resumeData = {
     name: "Sushil Kumar",
     title: "Software Engineer Grade 2",
     contact: {
-        email: "sushil124maurya@gmail.com",
+        email: "chauhangarima525@gmail.com",
         phone: "+91 8219479708",
         linkedin: "https://www.linkedin.com/in/sushil-maurya-6256b4154/",
     },
